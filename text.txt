@@ -1,0 +1,7 @@
+Hello, Python!
+Welcome to file handling.
+Hello, Python 1!
+Welcome to file handling2 .
+line 1
+line 2
+line 3
